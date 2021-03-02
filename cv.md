@@ -30,4 +30,21 @@ FrontEnd developer
 - I am  actively studying react and redux and JavaScript;
 - Lack of experience in commercial project development.
 
+## Skills
+- HTML;
+- CSS;
+- JavaScript;
+- SQL;
+- GIT;
+- NPM;
+
+## Examples
+`There is no code yet`
+
+
+## Experience
+
+No commercial development experience
+
+
 

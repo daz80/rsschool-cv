@@ -46,5 +46,17 @@ FrontEnd developer
 
 No commercial development experience
 
+## Education
+
+ - Bachelor`s degree, Historical department of BSU, Records Management (2018);
+ - Master degree, Historical department of BSU, Archives, documental and records management (2020);
+ - MIPT/Yandex, Basics html and css (2020);
+ - MIPT/Yandex, JS, part 1: basics and functions (2020);
+ - It-Academy, Database basics (2021);
+
+## English level
+ - Intermediate, B1.
+
+
 
 

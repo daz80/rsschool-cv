@@ -23,3 +23,32 @@ body {
 .container_header__logo {
     align-self: flex-start;
 }
+.main {
+    flex-direction: column;
+    font-family: Roboto, sans-serif;
+}
+.main_article {
+    flex: 3;
+    border-right: 3px solid black;
+    border-left: 3px solid black;
+}
+.main_article__position {
+    box-sizing: border-box;
+
+}
+.main_article__about {
+    box-sizing: border-box;
+    border-top: black 3px solid;
+}
+.main_article__examples{
+    box-sizing: border-box;
+    border-top: black 3px solid;
+}
+.main_article__experience {
+    box-sizing: border-box;
+    border-top: black 3px solid;
+}
+.main_article__education{
+    box-sizing: border-box;
+    border-top: black 3px solid;
+}

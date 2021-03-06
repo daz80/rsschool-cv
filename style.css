@@ -4,3 +4,22 @@
 body {
     margin: 0 auto;
 }
+.container {
+    background-color: beige;
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.container_header {
+    background-color: #C4DF9B;
+    border-bottom: 3px solid black;
+}
+.container_header__logo {
+    align-self: flex-start;
+}

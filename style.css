@@ -52,3 +52,13 @@ body {
     box-sizing: border-box;
     border-top: black 3px solid;
 }
+.main_aside {
+    box-sizing: border-box;
+    flex: 1;
+}
+.main_aside__skills {
+    border-top: 3px solid black;
+}
+.main_aside__english {
+    border-top: 3px solid black;
+}

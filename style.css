@@ -62,3 +62,24 @@ body {
 .main_aside__english {
     border-top: 3px solid black;
 }
+.container_footer {
+    border-top: 3px solid black;
+    flex-direction: row;
+    flex: 0 0 5em;
+    background-color: #c4df9b;
+
+}
+.container_footer__item {
+    font-weight: 500;
+    font-family: Roboto, sans-serif;
+    margin: 0 auto;
+}
+.container_footer__nav {
+   margin: 0 auto;
+}
+.social-icons {
+    align-content: flex-end;
+    width: 40px;
+    height: 40px;
+    margin: 5px 5px 0px 10px;
+}

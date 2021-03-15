@@ -12,7 +12,7 @@ ul {
 a {
     text-decoration: none;
 }
-.container {
+.wildlife-container {
     max-width: 1440px;
     margin: auto;
 }
@@ -48,14 +48,14 @@ a {
     height: 60px;
     text-transform: uppercase;
 }
-.header .menu {
+.header .nav-menu {
     margin-left: 480px;
 }
-.header .menu ul {
+.header .nav-menu ul {
     display: flex;
     align-items: center;
 }
-.header .menu ul a {
+.header .nav-menu ul a {
     margin-right: 64px;
     font-weight: normal;
     font-size: 23px;
@@ -63,25 +63,25 @@ a {
     color: #F7F7F7;
     transition: all .3s;
 }
-.header .menu ul .search-btn {
+.header .nav-menu ul .search-link {
     line-height: 0;
 }
-.header .menu ul a:hover {
+.header .nav-menu ul a:hover {
     color: #CD6326;
 }
-.header .menu ul a:active {
+.header .nav-menu ul a:active {
     color: #8F5613;
 }
-.header .menu ul .search {
+.header .nav-menu ul .search {
     transition: all .3s;
 }
-.header .menu ul .search:hover {
+.header .nav-menu ul .search:hover {
     fill: #CD6326;
 }
-.header .menu ul .search:active {
+.header .nav-menu ul .search:active {
     fill: #8F5613;
 }
-.header .menu ul .sign {
+.header .nav-menu ul .sign {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     display: flex;
@@ -94,12 +94,12 @@ a {
     height: 50px;
     transition: all .3s;
 }
-.header .menu ul .sign:hover {
+.header .nav-menu ul .sign:hover {
     background-color: #CD6326;
     color: #F7F7F7;
 }
 
-.header .menu ul .sign:active {
+.header .nav-menu ul .sign:active {
     background-color: #8F5613;
 }
 .header-content h1 {
